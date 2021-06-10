@@ -1,0 +1,14 @@
+
+.box1{
+	background: hotpink;
+	margin:auto;
+	padding:50px;
+	border: 5px solid red;
+}
+
+.box2{
+	background: violet;
+	margin:auto;
+	padding: 30px;
+	border: 6px solid black;
+}
